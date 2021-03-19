@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DEMO_MVVM</string>
+    <string name="menu">Menu</string>
+    <string name="You_need_open_setting_to_grant_permission">Bạn cần mở cài đặt để cấp quyền cho ứng dụng!</string>
+
+</resources>

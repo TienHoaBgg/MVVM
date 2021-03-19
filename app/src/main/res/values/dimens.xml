@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeLogoApp">68sp</dimen>
+    <dimen name="textSizeToolbar">19sp</dimen>
+    <dimen name="textSize">14sp</dimen>
+    <dimen name="textSizeTitle">17sp</dimen>
+
+
+
+</resources>
